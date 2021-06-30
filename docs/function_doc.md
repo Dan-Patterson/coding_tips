@@ -4,12 +4,23 @@ Here is some code with way more docstring information than is needed for a pytho
 
 I tried to pack in all that might be useful.
 
-The image and the code
+A few tips ahead of time.
+  - image location can be done in several ways
+    -  `<a href="url"><img src="code_format_options.png" align="left" height="auto" width="400"></a>`
+    -  `[image info text here](../path/if_needed/image_name.png)`  partial path relative to the \*.md file
+    -  `[image info text here](image_name.png here)`  same folder as the \*.md file
+  - to prevent wrapping text to the right or left of an image use `<br clear="all">` after the image name.
 
-<a href="url"><img src="code_format_options.png" align="left" height="auto" width="400" ></a>
 
+The image ...
 
+<a href="url"><img src="code_format_options.png" align="left" height="auto" width="400"></a>
 
+<br clear="all">
+
+----
+... and the code.
+ 
 ```python
 # ----------------------------------------------------------------------
 # ---- (6) doc_frmts .... code section ----
@@ -164,3 +175,6 @@ def a():
     """
     print(a.__doc__)
 ```
+
+
+Pick out what you need to help you remember what your code did and to convey this information to others.
