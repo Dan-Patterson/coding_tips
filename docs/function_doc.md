@@ -4,8 +4,12 @@ Here is some code with way more docstring information than is needed for a pytho
 
 I tried to pack in all that might be useful.
 
-The image and 
-The code
+The image and the code
+
+<a href="url"><img src="code_format_options.png" align="left" height="auto" width="400" ></a>
+
+
+
 ```python
 # ----------------------------------------------------------------------
 # ---- (6) doc_frmts .... code section ----
