@@ -1,13 +1,13 @@
 # --- Required options --- #
 # background link https://github.com/pages-themes/dinky
 
-title: Geo Numeracy
+title: Coding Tips
 theme: jekyll-theme-dinky
 # theme: jekyll-theme-cayman
 show_downloads: false # true otherwise
 
 # Name of website
-name: Geo Numeracy
+name: Coding Tips
 description: Working with geometry using numpy, and other musings.
 
 # [npg](voronoi2.png)
