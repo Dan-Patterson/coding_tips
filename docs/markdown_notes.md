@@ -1,6 +1,10 @@
 # Markdown notes
 
 **expand me table of contents**
+- The first one just contains one block.
+- The second one contains two blocks.
+- Click ``Raw`` to see the actual code.
+
 
 <details>
 <summary markdown="span">Click me to see more</summary>
