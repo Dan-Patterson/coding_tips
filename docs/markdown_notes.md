@@ -14,11 +14,11 @@ They begin
 
 
 <details>
-<summary markdown="span">This link is closed. Click me to see more</summary>
+<summary markdown="span">1. This link is closed. Click me to see more</summary>
 This is where all the great stuff goes, all on one level.
 </details>
 <details>
-<summary markdown="span">Another level in the level</summary>
+<summary markdown="span">2. Another level in the level</summary>
 </br>
 A line break before more stuff.
 
@@ -28,7 +28,7 @@ A line break before more stuff.
 
 
 <details open>
-<summary markdown="span">This one is open by default. Click me to collapse...</summary>
+<summary markdown="span">2.1 This one is open by default. Click me to collapse...</summary>
 </br>
 
 ```python
