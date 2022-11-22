@@ -40,3 +40,12 @@ def some_func:
 So this one hides all the levels.
 </details>
 </details>
+
+----
+**Line breaks**
+
+Especially after an image, use:
+
+\<br clear="all"\>
+
+This provides a clear break and removes the need to pad with extra lines.
