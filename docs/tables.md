@@ -1,4 +1,4 @@
-##Tables in docstrings##
+# Tables in docstrings
 
 Here is a sample header for some function that demonstrates two options for including a table.
 
@@ -33,4 +33,9 @@ What it looks like when the function is called.
 The image ...
 
 <a href="url"><img src="docstring_table.png" align="left" height="auto" width="400"></a>
+
+The double colon at the end of `parameter meaning` enables the box format of the simple table.  That table uses spacing and dashes of both formats to provide the table structure.
+
+The second table format uses dashes, + and the | (pipe) to provide the structure.  One should note that the top left corner can be empty in this table variant and not in the first (which required an `x` to maintain the structure).
+
 
